@@ -6,7 +6,7 @@ Program constructs and plays a random waltz based on the rules of Mozart's Music
    - Minuet: 176 possible measures; randomly have to choose 16
    - Trio: 96 possible measures; randomly have to choose 16
   
-More info on [this website](https://introcs.cs.princeton.edu/java/assignments/mozart.html)
+Description made from and more info on [this website](https://introcs.cs.princeton.edu/java/assignments/mozart.html)
 
 ## What I've Learned: <br/>
 Working with files, and the Python libraries Random and Simple Audio
