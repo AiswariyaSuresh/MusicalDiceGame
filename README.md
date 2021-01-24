@@ -1,7 +1,6 @@
 # MusicalDiceGame <br/>
 Program constructs and plays a random waltz based on the rules of Mozart's Musical Dice Game <br/>
-<br/>
-###### Mozart's Musical Dice Game: <br/>
+### Mozart's Musical Dice Game: <br/>
 1. Compose two-part waltz by pasting together 32 of 272 pre-composed musical elements at random
 2. Waltz consists of minuet and trio
    - Minuet: 176 possible measures; randomly have to choose 16
